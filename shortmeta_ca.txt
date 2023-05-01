@@ -1,0 +1,3 @@
+samplename	condition	sample	species1	species2	air
+Ca_hypoxic_3	Ca_hypoxic	Sample11	Candida-albicans	null	hypoxic
+CaEf_hypoxic_3	Ca_hypoxic	Sample12	Candida-albicans	Enterococcus-faecalis	hypoxic
